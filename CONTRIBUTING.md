@@ -38,7 +38,7 @@ Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a positive and
 
 ## Issue Reporting
 
-If you encounter any bugs or have feature requests, please create an issue in the [Issues](https://github.com/yourusername/kaiser/issues) section. Provide detailed information to help us understand and reproduce the issue.
+If you encounter any bugs or have feature requests, please create an issue in the [Issues](https://github.com/wlappiz/kaiser/issues) section. Provide detailed information to help us understand and reproduce the issue.
 
 ## Code Style
 
@@ -57,6 +57,6 @@ By contributing to Kaiser, you agree that your contributions will be licensed un
 
 ## Contact
 
-If you have any questions or need further assistance, please contact us at [your-email@example.com].
+If you have any questions or need further assistance, please contact us at [kazukikaizo@yahoo.com].
 
 Thank you for your contributions!
