@@ -69,5 +69,3 @@ We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for
 For support or inquiries, please contact us at kazukikaizo@yahoo.com.
 
 Happy bot building! 🚀
-
-test
